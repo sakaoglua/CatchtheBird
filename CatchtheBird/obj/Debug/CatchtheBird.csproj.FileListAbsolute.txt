@@ -1,0 +1,11 @@
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\bin\Debug\CatchtheBird.exe.config
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\bin\Debug\CatchtheBird.exe
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\bin\Debug\CatchtheBird.pdb
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.csproj.AssemblyReference.cache
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.Form1.resources
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.Properties.Resources.resources
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.csproj.GenerateResource.cache
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.csproj.CoreCompileInputs.cache
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.exe
+C:\Users\atakan.sakaoglu\source\repos\CatchtheBird\CatchtheBird\obj\Debug\CatchtheBird.pdb
